@@ -13,7 +13,7 @@ steps:
 
 
 # Step 2
-# Publish the release
+# Publish the release ...
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
     entrypoint: 'bash'
     args:
